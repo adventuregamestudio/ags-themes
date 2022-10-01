@@ -15,4 +15,4 @@ For the older format (AGS 3.4.1 alpha and above) you can use [Rulaman's AGS-Them
 
 For the new format (AGS 3.6.0.36 and above) you can use a more concise color notation with HTML colors, and thus any text editor should do, even online ones like jsoneditoronline that can provide a more convenient way to display/colorpick values.
 
-You can start from an existing theme
+You can start from an existing theme, or the "Template Compat/Modern" which contain all the available properties.
