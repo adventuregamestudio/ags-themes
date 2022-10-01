@@ -9,7 +9,7 @@ Themes for [Adventure Game Studio](http://www.adventuregamestudio.co.uk/).
 
 ## Creating a new theme
 
-There are currently two formats for themes. Read about the (theme format specification)[FORMAT.md] to know more about all the themeable elements and their properties.
+There are currently two formats for themes. Read about the [theme format specification](FORMAT.md) to know more about all the themeable elements and their properties.
 
 For the older format (AGS 3.4.1 alpha and above) you can use [Rulaman's AGS-ThemeEditor](https://github.com/Rulaman/AGS-ThemeEditor)
 
