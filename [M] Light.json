@@ -1,0 +1,209 @@
+{
+  "name": "Light",
+  "version": "0.0.1",
+  "background": "#f0f0f0",
+  "global": {
+    "background": "#f0f0f0",
+    "foreground": "#000000",
+    "pane": {
+      "background": "#8e9bbc"
+    },
+    "box": {
+      "background": "#f0f0f0",
+      "foreground": "#000000"
+    },
+    "listview": {
+      "background": "#fcfdfe",
+      "foreground": "#000000",
+      "owner-draw": true,
+      "grid-lines": true,
+      "last-column-width": -2,
+      "draw-item": true,
+      "draw-sub-item": true,
+      "column-header": {
+        "background": "#f6f6f6",
+        "foreground": "#000000",
+        "border": "#cccedb"
+      }
+    },
+    "propertygrid": {
+      "background": "#cfd6e5",
+      "line": "#eeeef2",
+      "category": "#000000",
+      "view": {
+        "background": "#fcfdfe",
+        "foreground": "#000000",
+        "border": "#eeeef2"
+      },
+      "help": {
+        "background": "#eeeef2",
+        "foreground": "#000000",
+        "border": "#eeeef2"
+      }
+    },
+    "text-box": {
+      "background": "#fcfdfe",
+      "foreground": "#000000",
+      "border-style": 1
+    }
+  },
+  "welcome": {
+    "background": "#fcfdfe",
+    "foreground": "#000",
+    "panel1": {
+      "background": "#606d82",
+      "foreground": "#ffffff"
+    },
+    "panel2": {
+      "background": "#dbdee3",
+      "foreground": "#000000"
+    },
+    "pnlTipOfTheDay": {
+      "background": "#dbdee3",
+      "foreground": "#000000"
+    },
+    "pnlRight": {
+      "background": "#dbdee3",
+      "foreground": "#000000"
+    }
+  },
+  "project-panel": {
+    "background": "#8e9bbc",
+    "project-tree": {
+      "background": "#fcfdfe",
+      "foreground": "#000000"
+    }
+  },
+  "script-editor": {
+    "background": "#fcfdfd",
+    "foreground": "#323232",
+    "text-editor": {
+      "global-default": {
+        "background": "#fcfdfd",
+        "foreground": "#323232"
+      },
+      "default": {
+        "background": "#fcfdfd",
+        "foreground": "#323232"
+      },
+      "word-1": {
+        "background": "#fcfdfd",
+        "foreground": "#0b47d7"
+      },
+      "word-2": {
+        "background": "#fcfdfd",
+        "foreground": "#8d2cf3"
+      },
+      "identifier": {
+        "background": "#fcfdfd",
+        "foreground": "#323232"
+      },
+      "comment": {
+        "background": "#fcfdfd",
+        "foreground": "#52985a"
+      },
+      "comment-line": {
+        "background": "#fcfdfd",
+        "foreground": "#52985a"
+      },
+      "comment-doc": {
+        "background": "#fcfdfd",
+        "foreground": "#808080"
+      },
+      "comment-line-doc": {
+        "background": "#fcfdfd",
+        "foreground": "#808080"
+      },
+      "comment-doc-keyword": {
+        "background": "#fcfdfd",
+        "foreground": "#99a38a"
+      },
+      "comment-doc-keyword-error": {
+        "background": "#fcfdfd",
+        "foreground": "#99a38a"
+      },
+      "number": {
+        "background": "#fcfdfd",
+        "foreground": "#c44d32"
+      },
+      "regex": {
+        "background": "#fcfdfd",
+        "foreground": "#f9ae57"
+      },
+      "string": {
+        "background": "#fcfdfd",
+        "foreground": "#c44d32"
+      },
+      "string-eol": {
+        "background": "#fcfdfd",
+        "foreground": "#F42d12"
+      },
+      "operator": {
+        "background": "#fcfdfd",
+        "foreground": "#323232"
+      },
+      "preprocessor": {
+        "background": "#f2ebf1",
+        "foreground": "#b05eba"
+      },
+      "line-number": {
+        "background": "#fcfdfd",
+        "foreground": "#989898"
+      },
+      "indent-guide": {
+        "background": "#fcfdfd",
+        "foreground": "#B8B8B8"
+      },
+      "fold-margin": "#fcfdfd",
+      "fold-margin-hi": "#fcfdfd",
+      "marknum-folder": {
+        "background": "#B8B8B8",
+        "foreground": "#fcfdfd"
+      },
+      "marknum-folder-end": {
+        "background": "#B8B8B8",
+        "foreground": "#fcfdfd"
+      },
+      "marknum-folder-open": {
+        "background": "#B8B8B8",
+        "foreground": "#fcfdfd"
+      },
+      "marknum-folder-open-mid": {
+        "background": "#B8B8B8",
+        "foreground": "#fcfdfd"
+      },
+      "marknum-folder-mid-tail": "#B8B8B8",
+      "marknum-folder-sub": "#B8B8B8",
+      "marknum-folder-tail": "#B8B8B8",
+      "selected": {
+        "background": "#d8dfe6",
+        "foreground": "transparent"
+      },
+      "caret": {
+        "caret-fore":"#0076FF",
+        "caret-line-back": "#7eb6fe",
+        "caret-line-back-alpha": 25
+      },
+      "marker-breakpoint": {
+        "background": "#fcd8d0",
+        "foreground": "#ffffff"
+      },
+      "marker-breakpoint2": {
+        "background": "#d42b2c",
+        "foreground": "#923c2e"
+      },
+      "current-statement": {
+        "background": "#ffe13f",
+        "foreground": "#be7e22"
+      },
+      "current-statement2": {
+        "background": "#fff1af",
+        "foreground": "transparent"
+      }
+    }
+  },
+  "status-strip": {
+    "foreground": "#ffffff",
+    "background": "#007acc"
+  }
+}

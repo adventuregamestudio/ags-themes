@@ -1,0 +1,2601 @@
+{
+  "name": "Dracula",
+  "version": "0.2.1",
+  
+  "background": {
+    "r": 40,
+    "g": 42,
+    "b": 54,
+    "a": 255
+  },
+  "main-container": {
+    "dock-background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "skin": {
+      "auto-hide": {
+        "tab-gradient": {
+          "start": {
+            "r": 40,
+            "g": 42,
+            "b": 54,
+            "a": 255
+          },
+          "end": {
+            "r": 40,
+            "g": 42,
+            "b": 54,
+            "a": 255
+          },
+          "text": {
+            "r": 241,
+            "g": 241,
+            "b": 241,
+            "a": 255
+          }
+        },
+        "dock-strip-gradient": {
+          "start": {
+            "r": 40,
+            "g": 42,
+            "b": 54,
+            "a": 255
+          },
+          "end": {
+            "r": 40,
+            "g": 42,
+            "b": 54,
+            "a": 255
+          }
+        }
+      },
+      "dock-pane": {
+        "document-gradient": {
+          "dock-strip-gradient": {
+            "start": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "end": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            }
+          },
+          "active-tab-gradient": {
+            "start": {
+              "r": 66,
+              "g": 68,
+              "b": 80,
+              "a": 255
+            },
+            "end": {
+              "r": 66,
+              "g": 68,
+              "b": 80,
+              "a": 255
+            },
+            "text": {
+              "r": 248,
+              "g": 248,
+              "b": 252,
+              "a": 255
+            }
+          },
+          "inactive-tab-gradient": {
+            "start": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "end": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "text": {
+              "r": 253,
+              "g": 253,
+              "b": 246,
+              "a": 255
+            }
+          }
+        },
+        "tool-window": {
+          "active-caption-gradient": {
+            "start": {
+              "r": 0,
+              "g": 122,
+              "b": 204,
+              "a": 255
+            },
+            "end": {
+              "r": 0,
+              "g": 122,
+              "b": 204,
+              "a": 255
+            },
+            "text": {
+              "r": 253,
+              "g": 253,
+              "b": 246,
+              "a": 255
+            }
+          },
+          "inactive-caption-gradient": {
+            "start": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "end": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "text": {
+              "r": 253,
+              "g": 253,
+              "b": 246,
+              "a": 255
+            }
+          },
+          "active-tab-gradient": {
+            "start": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "end": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "text": {
+              "r": 14,
+              "g": 149,
+              "b": 218,
+              "a": 255
+            }
+          },
+          "inactive-tab-gradient": {
+            "start": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "end": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "text": {
+              "r": 208,
+              "g": 208,
+              "b": 208,
+              "a": 255
+            }
+          },
+          "dock-strip-gradient": {
+            "start": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            },
+            "end": {
+              "r": 40,
+              "g": 42,
+              "b": 54,
+              "a": 255
+            }
+          }
+        }
+      }
+    }
+  },
+  "main-menu": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "border": {
+      "r": 66,
+      "g": 68,
+      "b": 80,
+      "a": 255
+    },
+    "background-dropdown": {
+      "r": 25,
+      "g": 26,
+      "b": 33,
+      "a": 255
+    },
+    "separator": {
+      "r": 66,
+      "g": 68,
+      "b": 80,
+      "a": 255
+    },
+    "selected": {
+      "gradient": {
+        "begin": {
+          "r": 62,
+          "g": 62,
+          "b": 64,
+          "a": 255
+        },
+        "end": {
+          "r": 62,
+          "g": 62,
+          "b": 64,
+          "a": 255
+        }
+      }
+    },
+    "pressed": {
+      "gradient": {
+        "begin": {
+          "r": 25,
+          "g": 26,
+          "b": 33,
+          "a": 255
+        },
+        "middle": {
+          "r": 25,
+          "g": 26,
+          "b": 33,
+          "a": 255
+        },
+        "end": {
+          "r": 25,
+          "g": 26,
+          "b": 33,
+          "a": 255
+        }
+      }
+    },
+    "item": {
+      "border": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "selected": {
+        "r": 66,
+        "g": 68,
+        "b": 52,
+        "a": 255
+      }
+    },
+    "check": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "border": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "selected": {
+        "r": 62,
+        "g": 62,
+        "b": 64,
+        "a": 255
+      },
+      "pressed": {
+        "r": 62,
+        "g": 62,
+        "b": 64,
+        "a": 255
+      }
+    },
+    "margin": {
+      "gradient": {
+        "begin": {
+          "r": 25,
+          "g": 26,
+          "b": 33,
+          "a": 255
+        },
+        "middle": {
+          "r": 25,
+          "g": 26,
+          "b": 33,
+          "a": 255
+        },
+        "end": {
+          "r": 25,
+          "g": 26,
+          "b": 33,
+          "a": 255
+        }
+      }
+    }
+  },
+  "tool-bar": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "border": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "separator": {
+      "r": 34,
+      "g": 34,
+      "b": 34,
+      "a": 255
+    },
+    "selected-gradient": {
+      "begin": {
+        "r": 62,
+        "g": 62,
+        "b": 64,
+        "a": 255
+      },
+      "end": {
+        "r": 62,
+        "g": 62,
+        "b": 64,
+        "a": 255
+      }
+    },
+    "overflow-gradient": {
+      "begin": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "middle": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "end": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      }
+    },
+    "gradient": {
+      "begin": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "middle": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "end": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      }
+    },
+    "grip": {
+      "light": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "dark": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      }
+    }
+  },
+  "status-strip": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    }
+  },
+  "welcome": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "panel1": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "panel2": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "link": {
+        "r": 255,
+        "g": 121,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "pnlTipOfTheDay": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "link": {
+        "r": 255,
+        "g": 121,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "pnlRight": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "link": {
+        "r": 255,
+        "g": 121,
+        "b": 198,
+        "a": 255
+      }
+    }
+  },
+  "project-panel": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "project-tree": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "line": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      }
+    }
+  },
+  "properties-panel": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "combobox": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "drop-down": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "drop-down-closed": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-selected": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-not-selected": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "border": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        }
+      },
+      "button-dropped-down": {
+        "background": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        },
+        "foreground": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }		  
+      },
+      "button-not-dropped-down": {
+        "background": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        },
+        "foreground": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }
+      }
+    },
+    "grid": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "line": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "category": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "view": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "help": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      }
+    }
+  },
+  "output-panel": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "owner-draw": true,
+    "grid-lines": false,
+    "last-column-width": -2,
+    "draw-item": true,
+    "draw-sub-item": true,
+    "column-header": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "border": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      }
+    }
+  },
+  "find-results-panel": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "owner-draw": true,
+    "grid-lines": false,
+    "last-column-width": -2,
+    "draw-item": true,
+    "draw-sub-item": true,
+    "column-header": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "border": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      }
+    }
+  },
+  "call-stack-panel": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 241,
+      "g": 241,
+      "b": 241,
+      "a": 255
+    },
+    "owner-draw": true,
+    "grid-lines": false,
+    "last-column-width": -2,
+    "draw-item": true,
+    "draw-sub-item": true,
+    "column-header": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "border": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      }
+    }
+  },
+  "general-settings": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "property-grid": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "line": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "category-fore": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "view": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "help": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      }
+    }
+  },
+  "palette": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "color-finder": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "color-number-box": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        },
+        "border-style": 1
+      },
+      "btn-color-dialog": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        },
+        "flat": {
+          "style": 0,
+          "border": {
+            "size": 1,
+            "color": {
+              "r": 66,
+              "g": 68,
+              "b": 80,
+              "a": 255
+            }
+          }
+        }
+      }
+    },
+    "palette-page": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "draw-mode": 1,
+    "draw-item": {
+      "background": {
+        "selected": {
+          "r": 0,
+          "g": 122,
+          "b": 204,
+          "a": 255
+        },
+        "not-selected": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        }
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    }
+  },
+  "sprite-selector": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "list": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "tree": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "line": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      }
+    },
+    "btn-import-new": {
+      "_comment": "for 3.6.0.36 and above",
+      "background": "#424450",
+      "foreground": "#f8f8f2",
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": "#424450"
+        }
+      }
+    }
+  },
+  "text-parser-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 189,
+      "g": 147,
+      "b": 249,
+      "a": 255
+    },
+    "box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "list-view": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "owner-draw": true,
+      "grid-lines": false,
+      "last-column-width": -2,
+      "draw-item": true,
+      "draw-sub-item": true,
+      "column-header": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        },
+        "border": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }
+      }
+    }
+  },
+  "lip-sync-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "text-boxes": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "border-style": 1
+    }
+  },
+  "gui-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 189,
+      "g": 147,
+      "b": 249,
+      "a": 255
+    }
+  },
+  "inventory-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 189,
+      "g": 147,
+      "b": 249,
+      "a": 255
+    },
+    "current-item-box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "left-box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "right-box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    }
+  },
+  "dialog-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "btn-delete-option": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-new-option": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    }
+  },
+  "view-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "btn-delete-option": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-new-option": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-new-frame": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    }
+  },
+  "character-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "btn-make": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    }
+  },
+  "view-preview": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "numeric-loop": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "numeric-frame": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "numeric-delay": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    }
+  },
+  "cursor-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    }
+  },
+  "font-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "btn-import": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    }
+  },
+  "audio-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "audio-type": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "audio-clip-box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "btn-play": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-pause": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-stop": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    }
+  },
+  "global-variables-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "list": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "owner-draw": true,
+      "grid-lines": false,
+      "last-column-width": -2,
+      "draw-item": true,
+      "draw-sub-item": true,
+      "column-header": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        },
+        "border": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }
+      }
+    }
+  },
+  "room-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "box": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "buffered-panel": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      }
+    },
+    "btn-change-image": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-delete": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "btn-export": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "flat": {
+        "style": 0,
+        "border": {
+          "size": 1,
+          "color": {
+            "r": 66,
+            "g": 68,
+            "b": 80,
+            "a": 255
+          }
+        }
+      }
+    },
+    "combo-view-type": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "drop-down": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "drop-down-closed": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-selected": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-not-selected": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "border": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }
+      },
+      "button-dropped-down": {
+        "background": {
+          "r": 0,
+          "g": 122,
+          "b": 204,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "button-not-dropped-down": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 153,
+          "g": 153,
+          "b": 153,
+          "a": 255
+        }
+      }
+    },
+    "combo-backgrounds": {
+      "background": {
+        "r": 66,
+        "g": 68,
+        "b": 80,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "drop-down": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "drop-down-closed": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-selected": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-not-selected": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "border": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }
+      },
+      "button-dropped-down": {
+        "background": {
+          "r": 0,
+          "g": 122,
+          "b": 204,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "button-not-dropped-down": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 153,
+          "g": 153,
+          "b": 153,
+          "a": 255
+        }
+      }
+    }
+  },
+  "script-editor": {
+    "background": {
+      "r": 40,
+      "g": 42,
+      "b": 54,
+      "a": 255
+    },
+    "foreground": {
+      "r": 248,
+      "g": 248,
+      "b": 242,
+      "a": 255
+    },
+    "combo-functions": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "foreground": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "drop-down": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "drop-down-closed": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-selected": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "item-not-selected": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "border": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        }
+      },
+      "button-dropped-down": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "button-not-dropped-down": {
+        "background": {
+          "r": 66,
+          "g": 68,
+          "b": 80,
+          "a": 255
+        },
+        "foreground": {
+          "r": 0,
+          "g": 122,
+          "b": 204,
+          "a": 255
+        }
+      }
+    },
+    "text-editor": {
+      "global-default": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "default": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "word-1": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 255,
+          "g": 121,
+          "b": 198,
+          "a": 255
+        }
+      },
+      "word-2": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 139,
+          "g": 233,
+          "b": 253,
+          "a": 255
+        }
+      },
+      "identifier": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "comment": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "comment-line": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "comment-doc": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "comment-line-doc": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "comment-doc-keyword": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 220,
+          "g": 220,
+          "b": 220,
+          "a": 255
+        }
+      },
+      "comment-doc-keyword-error": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 220,
+          "g": 220,
+          "b": 220,
+          "a": 255
+        }
+      },
+      "number": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "regex": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "string": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 240,
+          "g": 250,
+          "b": 140,
+          "a": 255
+        }
+      },
+      "string-eol": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 240,
+          "g": 250,
+          "b": 140,
+          "a": 255
+        }
+      },
+      "operator": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "preprocessor": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "line-number": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 139,
+          "g": 233,
+          "b": 253,
+          "a": 255
+        }
+      },
+      "indent-guide": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 98,
+          "g": 114,
+          "b": 164,
+          "a": 255
+        }
+      },
+      "fold-margin": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "fold-margin-hi": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "marknum-folder": {
+        "background": {
+          "r": 165,
+          "g": 165,
+          "b": 165,
+          "a": 255
+        },
+        "foreground": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 255
+        }
+      },
+      "marknum-folder-end": {
+        "background": {
+          "r": 165,
+          "g": 165,
+          "b": 165,
+          "a": 255
+        },
+        "foreground": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 255
+        }
+      },
+      "marknum-folder-open": {
+        "background": {
+          "r": 226,
+          "g": 226,
+          "b": 226,
+          "a": 255
+        },
+        "foreground": {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        }
+      },
+      "marknum-folder-open-mid": {
+        "background": {
+          "r": 226,
+          "g": 226,
+          "b": 226,
+          "a": 255
+        },
+        "foreground": {
+          "r": 30,
+          "g": 30,
+          "b": 30,
+          "a": 255
+        }
+      },
+      "marknum-folder-mid-tail": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 255
+      },
+      "marknum-folder-sub": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 255
+      },
+      "marknum-folder-tail": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 255
+      },
+      "selected": {
+        "r": 68,
+        "g": 71,
+        "b": 90,
+        "a": 255
+      },
+      "caret": {
+        "r": 220,
+        "g": 220,
+        "b": 220,
+        "a": 255
+      }
+    }
+  }
+}
