@@ -7,6 +7,10 @@ Themes for [Adventure Game Studio](http://www.adventuregamestudio.co.uk/).
 - `[M]` Modern themes (3.6.0.36 and above)
 
 
+## How to use themes
+- Copy the .json files in `C:\Users\<USERNAME>\AppData\Local\AGS\Themes`
+- Pick a theme from "File > Preferences... -> Color Theme" and restart AGS
+
 ## Creating a new theme
 
 There are currently two formats for themes. Read about the [theme format specification](FORMAT.md) to know more about all the themeable elements and their properties.
