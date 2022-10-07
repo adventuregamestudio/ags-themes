@@ -1,5 +1,5 @@
 {
-  "name": "Blue Theme plus Obsidian",
+  "name": "VS2015 Blue Theme",
   "version": "0.1.0",
   "background": "#293955",
   "global": {
@@ -161,26 +161,26 @@
     "foreground": "#ffffff"
   },
   "welcome": {
-    "background": "#161e20",
-    "foreground": "#ffffff",
+    "background": "#fff",
+    "foreground": "#000",
     "panel1": {
       "background": "#4169e1",
       "foreground": "#ffffff"
     },
     "panel2": {
-      "background": "#293134",
-      "foreground": "#eaeee0",
-      "link": "#ff8000"
+      "background": "#efeff2",
+      "foreground": "#000",
+      "link": "#007acc"
     },
     "pnlTipOfTheDay": {
-      "background": "#293134",
-      "foreground": "#eaeee0",
-      "link": "#ff8000"
+      "background": "#efeff2",
+      "foreground": "#000",
+      "link": "#007acc"
     },
     "pnlRight": {
-      "background": "#293134",
-      "foreground": "#eaeee0",
-      "link": "#ff8000"
+      "background": "#fff",
+      "foreground": "#000",
+      "link": "#007acc"
     }
   },
   "script-editor": {
@@ -188,118 +188,118 @@
     "foreground": "#c8c8c8",
     "text-editor": {
       "global-default": {
-        "background": "#161e20",
-        "foreground": "#3f4e49"
+        "background": "#fff",
+        "foreground": "#000"
       },
       "default": {
-        "background": "#161e20",
-        "foreground": "#c8c8c8"
+        "background": "#fff",
+        "foreground": "#000"
       },
       "word-1": {
-        "background": "#161e20",
-        "foreground": "#93c763"
+        "background": "#fff",
+        "foreground": "#0000ff"
       },
       "word-2": {
-        "background": "#161e20",
-        "foreground": "#678cb1"
+        "background": "#fff",
+        "foreground": "#2b91af"
       },
       "identifier": {
-        "background": "#161e20",
-        "foreground": "#f1f2f3"
+        "background": "#fff",
+        "foreground": "#000"
       },
       "comment": {
-        "background": "#161e20",
-        "foreground": "#717e75"
+        "background": "#fff",
+        "foreground": "#008000"
       },
       "comment-line": {
-        "background": "#161e20",
-        "foreground": "#717e75"
+        "background": "#fff",
+        "foreground": "#008000"
       },
       "comment-doc": {
-        "background": "#161e20",
-        "foreground": "#808080"
+        "background": "#fff",
+        "foreground": "#006400"
       },
       "comment-line-doc": {
-        "background": "#161e20",
-        "foreground": "#808080"
+        "background": "#fff",
+        "foreground": "#006400"
       },
       "comment-doc-keyword": {
-        "background": "#161e20",
-        "foreground": "#99a38a"
+        "background": "#fff",
+        "foreground": "#006400"
       },
       "comment-doc-keyword-error": {
-        "background": "#161e20",
+        "background": "#fff",
         "foreground": "#99a38a"
       },
       "number": {
-        "background": "#161e20",
-        "foreground": "#ffcd22"
+        "background": "#fff",
+        "foreground": "#000"
       },
       "regex": {
-        "background": "#161e20",
-        "foreground": "#ffcd22"
+        "background": "#fff",
+        "foreground": "#e68d07"
       },
       "string": {
-        "background": "#161e20",
-        "foreground": "#ec7600"
+        "background": "#fff",
+        "foreground": "#a31515"
       },
       "string-eol": {
-        "background": "#161e20",
+        "background": "#fff",
         "foreground": "#c15555"
       },
       "operator": {
-        "background": "#161e20",
-        "foreground": "#68aaa1"
+        "background": "#fff",
+        "foreground": "#000"
       },
       "preprocessor": {
-        "background": "#161e20",
-        "foreground": "#a082bd"
+        "background": "#fff",
+        "foreground": "#808080"
       },
       "line-number": {
-        "background": "#293134",
-        "foreground": "#475751"
+        "background": "#ffffff",
+        "foreground": "#2b91af"
       },
       "indent-guide": {
-        "background": "#161e20",
-        "foreground": "#293134"
+        "background": "#fff",
+        "foreground": "#2b91af"
       },
-      "fold-margin": "#1f272c",
-      "fold-margin-hi": "#1f272c",
+      "fold-margin": "#fff",
+      "fold-margin-hi": "#fff",
       "marknum-folder": {
-        "background": "#3d4c48",
-        "foreground": "#779295"
+        "background": "#a5a5a5",
+        "foreground": "#e2e2e2"
       },
       "marknum-folder-end": {
-        "background": "#3d4c48",
-        "foreground": "#779295"
+        "background": "#a5a5a5",
+        "foreground": "#e2e2e2"
       },
       "marknum-folder-open": {
-        "background": "#3d4c48",
-        "foreground": "#161e20"
+        "background": "#a5a5a5",
+        "foreground": "#fff"
       },
       "marknum-folder-open-mid": {
-        "background": "#3d4c48",
-        "foreground": "#161e20"
+        "background": "#a5a5a5",
+        "foreground": "#fff"
       },
-      "marknum-folder-mid-tail": "#3d4c48",
-      "marknum-folder-sub": "#3d4c48",
-      "marknum-folder-tail": "#3d4c48",
+      "marknum-folder-mid-tail": "#a5a5a5",
+      "marknum-folder-sub": "#a5a5a5",
+      "marknum-folder-tail": "#a5a5a5",
       "selected": {
-        "background": "#4f6164",
+        "background": "#99c9ef",
         "foreground": "transparent"
       },
-      "caret": "#ffffff",
+      "caret": "#000",
       "marker-breakpoint": {
-        "background": "#963a46",
+        "background": "#f596a4",
         "foreground": "#ffffff"
       },
       "marker-breakpoint2": {
         "background": "#d42b2c",
-        "foreground": "#6a3838"
+        "foreground": "#f7d5d5"
       },
       "current-statement": {
-        "background": "#71571b",
-        "foreground": "#3f4e49"
+        "background": "#fff181",
+        "foreground": "#000"
       },
       "current-statement2": {
         "background": "#fff1af",
