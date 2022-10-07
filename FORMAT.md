@@ -157,6 +157,7 @@ Internally, the original ComboBox will be replaced with a CustomComboBox.
   "background": color,
   "line": color,
   "category": color,
+  "splitter": color, // since 3.6.0.36
   "view": {
     "background": color,
     "foreground": color,
