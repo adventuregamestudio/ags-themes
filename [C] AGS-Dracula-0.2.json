@@ -452,7 +452,8 @@
       "g": 42,
       "b": 54,
       "a": 255
-    }
+    },
+    "foreground": "#fff"
   },
   "welcome": {
     "background": {

@@ -41,6 +41,7 @@
       "background": "#5b5e67",
       "line": "#6e727f",
       "category": "#f1f1f1",
+      "splitter": "#6e727f",
       "view": {
         "background": "#51545c",
         "foreground": "#f1f1f1",

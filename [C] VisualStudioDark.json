@@ -1,12 +1,30 @@
 {
   "name": "Visual Studio Dark Theme Replica",
-  "version": "0.0.2",
+  "version": "0.0.3",
 
   "background": {
     "r": 45,
     "g": 45,
     "b": 48,
     "a": 255
+  },
+  "global": {
+    "propertygrid": {
+      "background": "#2d2c31",
+      "line": "#2d2d30",
+      "category": "#f1f1f1",
+      "splitter": "#2d2d30",
+      "view": {
+        "background": "#252525",
+        "foreground": "#f1f1f1",
+        "border": "#2d2d30"
+      },
+      "help": {
+        "background": "#2d2d30",
+        "foreground": "#f1f1f1",
+        "border": "#2d2d30"
+      }
+    }
   },
   "main-container": {
     "dock-background": {
@@ -452,7 +470,8 @@
       "g": 122,
       "b": 204,
       "a": 255
-    }
+    },
+    "foreground": "#fff"
   },
   "welcome": {
     "background": {
@@ -881,6 +900,7 @@
         "b": 241,
         "a": 255
       },
+      "splitter": "#2d2d30",
       "view": {
         "background": {
           "r": 37,
