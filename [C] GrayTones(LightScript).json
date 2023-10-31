@@ -1,6 +1,6 @@
 {
   "name": "Gray Tones (Light Script)",
-  "version": "0.0.2",
+  "version": "0.0.3",
 
   "background": {
     "r": 150,
@@ -2101,6 +2101,59 @@
           "r": 220,
           "g": 220,
           "b": 220,
+          "a": 255
+        },
+        "foreground": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 255
+        }
+      }
+    }
+  },
+  "log-panel": {
+    "background": "#c8c8c8",
+    "foreground": "#000000",
+    "splitter": "#c8c8c8",
+    "grid": {
+      "background": {
+        "r": 200,
+        "g": 200,
+        "b": 200,
+        "a": 255
+      },
+      "line": {
+        "r": 210,
+        "g": 210,
+        "b": 210,
+        "a": 255
+      },
+      "category": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "view": {
+        "background": {
+          "r": 200,
+          "g": 200,
+          "b": 200,
+          "a": 255
+        },
+        "foreground": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 255
+        }
+      },
+      "help": {
+        "background": {
+          "r": 160,
+          "g": 160,
+          "b": 160,
           "a": 255
         },
         "foreground": {

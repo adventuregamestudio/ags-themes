@@ -1,6 +1,6 @@
 {
   "name": "Template Compat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   
   "background": {
     "r": 45,
@@ -2229,6 +2229,11 @@
         }
       }
     }
+  },
+  "log-panel": {
+    "background": "#252526",
+    "foreground": "#f1f1f1",
+    "splitter": "#2d2d30"
   },
   "script-editor": {
     "background": {

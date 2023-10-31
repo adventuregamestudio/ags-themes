@@ -1,6 +1,6 @@
 {
   "name": "Blue Theme plus Obsidian",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "background": "#293955",
   "global": {
     "listview": {
@@ -182,6 +182,11 @@
       "foreground": "#eaeee0",
       "link": "#ff8000"
     }
+  },
+  "log-panel": {
+    "background": "#4b5c74",
+    "foreground": "#f1f2f3",
+    "splitter": "#d6dbe9"
   },
   "script-editor": {
     "background": "#d6dbe9",

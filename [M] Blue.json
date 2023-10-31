@@ -1,6 +1,6 @@
 {
   "name": "VS2015 Blue Theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "background": "#293955",
   "global": {
     "listview": {
@@ -182,6 +182,11 @@
       "foreground": "#000",
       "link": "#007acc"
     }
+  },
+  "log-panel": {
+    "background": "#e6e7e8",
+    "foreground": "#1e1e1e",
+    "splitter": "#d6dbe9"
   },
   "script-editor": {
     "background": "#d6dbe9",

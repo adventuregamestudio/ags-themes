@@ -1,6 +1,6 @@
 {
   "name": "Dark Gray",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "background": "#252526",
   "global": {
     "background": "#51545c",
@@ -228,6 +228,11 @@
       "foreground": "#f1f1f1",
       "line": "#2d2d2e"
     }
+  },
+    "log-panel": {
+    "background": "#252526",
+    "foreground": "#f1f1f1",
+    "splitter": "#51545c"
   },
   "script-editor": {
     "background": "#161e20",

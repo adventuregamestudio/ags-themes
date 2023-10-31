@@ -1,6 +1,6 @@
 {
   "name": "Monokai Dark",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "background": "#272822",
   "global": {
     "background": "#49483E",
@@ -259,6 +259,9 @@
       "foreground": "#F8F8F2",
       "line": "#2d2d2e"
     }
+  },
+  "log-panel": {
+    "splitter": "#75715e"
   },
   "script-editor": {
     "background": "#272822",

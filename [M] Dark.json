@@ -1,6 +1,6 @@
 {
   "name": "Dark Theme (Visual Studio Dark) - Modern",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "background": "#252526",
   "global": {
     "background": "#2d2d30",
@@ -259,6 +259,11 @@
       "foreground": "#f1f1f1",
       "line": "#2d2d30"
     }
+  },
+  "log-panel": {
+    "background": "#252526",
+    "foreground": "#f1f1f1",
+    "splitter": "#2d2d30"
   },
   "script-editor": {
     "background": "#161e20",

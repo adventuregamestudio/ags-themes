@@ -1,6 +1,6 @@
 {
   "name": "Light",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "background": "#f0f0f0",
   "global": {
     "background": "#f0f0f0",
@@ -73,6 +73,11 @@
       "background": "#fcfdfe",
       "foreground": "#000000"
     }
+  },
+  "log-panel": {
+    "background": "#e6e7e8",
+    "foreground": "#000000",
+    "splitter": "#cfd6e5"
   },
   "script-editor": {
     "background": "#fcfdfd",

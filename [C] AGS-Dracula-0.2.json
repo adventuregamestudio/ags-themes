@@ -1,6 +1,6 @@
 {
   "name": "Dracula",
-  "version": "0.2.2",
+  "version": "0.2.3",
   
   "background": {
     "r": 40,
@@ -2108,6 +2108,59 @@
           "r": 153,
           "g": 153,
           "b": 153,
+          "a": 255
+        }
+      }
+    }
+  },
+  "log-panel": {
+    "background": "#1b1c25",
+    "foreground": "#f8f8f2",
+    "splitter": "#282a36",
+    "grid": {
+      "background": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "line": {
+        "r": 40,
+        "g": 42,
+        "b": 54,
+        "a": 255
+      },
+      "category": {
+        "r": 248,
+        "g": 248,
+        "b": 242,
+        "a": 255
+      },
+      "view": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
+          "a": 255
+        }
+      },
+      "help": {
+        "background": {
+          "r": 40,
+          "g": 42,
+          "b": 54,
+          "a": 255
+        },
+        "foreground": {
+          "r": 248,
+          "g": 248,
+          "b": 242,
           "a": 255
         }
       }

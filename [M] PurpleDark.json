@@ -1,6 +1,6 @@
 {
   "name": "Purple Dark",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "background": "#2D2B55",
   "global": {
     "background": "#1E1E3F",
@@ -259,6 +259,11 @@
       "foreground": "#A599E9",
       "line": "#4D21FC"
     }
+  },
+  "log-panel": {
+    "background": "#2d2b55",
+    "foreground": "#a599e9",
+    "splitter": "#b362ff"
   },
   "script-editor": {
     "background": "#2D2B55",

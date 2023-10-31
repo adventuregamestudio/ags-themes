@@ -47,6 +47,7 @@ It's possible to make a cross-version theme by using the old color format (r,g,b
   "audio-editor": {...}
   "global-variables-editor": {...}
   "room-editor": {...}
+  "log-panel": {...} // (since 3.6.11)
   "script-editor": {...}
 }
 ```
@@ -608,6 +609,15 @@ Note: old 3.4.2 themes had "group-box" entries inside "color-finder" and "palett
 }
 ```
 
+## log-panel
+```
+"log-panel": { // (since 3.6.11)
+  "background": color,
+  "foreground": color,
+  "splitter": color,
+  "grid": propertygrid
+}
+```
 
 ## script-editor
 ```
