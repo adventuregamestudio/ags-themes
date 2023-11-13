@@ -11,7 +11,7 @@ It's possible to make a cross-version theme by using the old color format (r,g,b
 
 ## Changelog
 - 3.6.1.12: Added `character`, `brace-light`, and `brace-bad` to `text-editor`
-- 3.6.1.11: Added log panel sytles
+- 3.6.1.11: Added log panel styles
 - 3.6.0.36: New theme format (hex colors, fallbacks, import sprite button, and others)
 - 3.5.0.31: Added link colors for WelcomePane
 - 3.4.2: Custom themes were introduced
