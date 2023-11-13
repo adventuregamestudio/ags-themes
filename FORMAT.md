@@ -10,6 +10,8 @@ Adding new entries is always safe, since the Editor will ignore anything it does
 It's possible to make a cross-version theme by using the old color format (r,g,b,a) for the 3.5 entries. New sections can be in any format.
 
 ## Changelog
+- 3.6.1.12: Added `character`, `brace-light`, and `brace-bad` to `text-editor`
+- 3.6.1.11: Added log panel sytles
 - 3.6.0.36: New theme format (hex colors, fallbacks, import sprite button, and others)
 - 3.5.0.31: Added link colors for WelcomePane
 - 3.4.2: Custom themes were introduced
@@ -47,7 +49,7 @@ It's possible to make a cross-version theme by using the old color format (r,g,b
   "audio-editor": {...}
   "global-variables-editor": {...}
   "room-editor": {...}
-  "log-panel": {...} // (since 3.6.11)
+  "log-panel": {...} // (since 3.6.1.11)
   "script-editor": {...}
 }
 ```
@@ -611,7 +613,7 @@ Note: old 3.4.2 themes had "group-box" entries inside "color-finder" and "palett
 
 ## log-panel
 ```
-"log-panel": { // (since 3.6.11)
+"log-panel": { // (since 3.6.1.11)
   "background": color,
   "foreground": color,
   "splitter": color,
@@ -749,6 +751,18 @@ Note: old 3.4.2 themes had "group-box" entries inside "color-finder" and "palett
       "current-statement2": { // since 3.6.0.36
         "background": color,
         "foreground": color // use "transparent" to keep original color
+      },
+      "character": { // since 3.6.1.12 - character literal
+        "background": color,
+        "foreground": color
+      },
+      "brace-light": { // since 3.6.1.12 - highlighted brace
+        "background": color,
+        "foreground": color
+      },
+      "brace-bad": { // since 3.6.1.12 - mismateched brace
+        "background": color,
+        "foreground": color
       }
     }
   }
